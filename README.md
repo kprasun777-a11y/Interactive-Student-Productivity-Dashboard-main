@@ -1,3 +1,3 @@
 # Interactive-Student-Productivity-Dashboard
 
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-efvtmxmm)
+https://earnest-gumdrop-d60827.netlify.app/
